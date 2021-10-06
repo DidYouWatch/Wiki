@@ -46,8 +46,8 @@ Did you watch는 영화, 드라마, 스포츠 등 다양한 컨텐츠에 대한 
 이 프로젝트가 최종적으로 다루고자 하는 기능들은 매우 넓기 때문에, 전체 사용자 스토리를 분할해 이터레이션을 구성하여 차근차근 개발해나갈 계획입니다.
 
 - 사용자 스토리 보완(https://github.com/DidYouWatch/Wiki/wiki/UserStory)
-- 이벤트 스토밍(진행중, https://github.com/DidYouWatch/Wiki/wiki/EventStorming)
-- 마이크로서비스 정의
+- 이벤트 스토밍(https://github.com/DidYouWatch/Wiki/wiki/EventStorming)
+- 마이크로서비스 정의(진행중)
 - 사용자 스토리 우선순위 결정
 - 이터레이션 분할
 - 마이크로서비스 인프라 구축
