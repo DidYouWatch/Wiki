@@ -47,11 +47,11 @@ Did you watch는 영화, 드라마, 스포츠 등 다양한 컨텐츠에 대한 
 
 - 사용자 스토리 보완(https://github.com/DidYouWatch/Wiki/wiki/UserStory)
 - 이벤트 스토밍(https://github.com/DidYouWatch/Wiki/wiki/EventStorming)
-- 마이크로서비스 정의(진행중)
+- 마이크로서비스 정의(https://github.com/DidYouWatch/Wiki/wiki/Snap)
 - 사용자 스토리 우선순위 결정
-- 이터레이션 분할
-- 마이크로서비스 인프라 구축
-- 이터레이션 반복
+- 이터레이션 분할(https://github.com/DidYouWatch/Wiki/wiki/iteration)
+- 마이크로서비스 인프라 구축(https://github.com/DidYouWatch/Wiki/wiki/architecture)
+- 이터레이션 반복(iteration2 진행중 https://github.com/orgs/DidYouWatch/projects/3)
 
 마이크로서비스 인프라 구축부터는 github issue에 진행상황이 추가될 예정이니 참고 바랍니다.
 
